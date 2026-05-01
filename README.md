@@ -1,5 +1,12 @@
 # CIVE202 - Project1
 
+## Project Over View
 With the use of AirPurple, UNMC has been able to monitor air conditions from February 2025 to March 2025 but has not been able to translate the data. With the data collected, I have been instructed to manipulate the data’s organizational structure to help better understand and simplify its readings.
-(AirQuality_Daily_StudentVersion.csv) is the data collected by UNMC and the AirPurple
-(CIVE202_Spring2025_KatieManzano_Project1_Rawfile.ipynb) is the COde I created to orgainize the data and complete their objectives.
+
+## Repository Contents
+- [Scope of Work]
+- [Raw Data of the Air Quality](AirQuality_Daily_StudentVersion.csv)
+- [Jupyter Notebook with Organized Data](CIVE202_Spring2025_KatieManzano_Project1_Rawfile.ipynb)
+- [Annotated Code Documunet](CIVE202_Spring2025_KatieManzano_Project1_Annotated.docx)
+- [Technical Report]()
+
